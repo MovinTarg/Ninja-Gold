@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#container {
+    width: 970px;
+    padding: 15px;
+}
+.goldCount *{
+    display: inline-block;
+    margin: 15px 5px;
+}
+.goldLog {
+    width: 150px;
+    border: 1px solid black;
+}
+.build {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 40px;
+}
+.build *{
+    margin-top: 15px;
+}
+.activityLog {
+    width: 970px;
+    min-height: 300px;
+    border: 1px solid black;
+}
+.reset {
+    margin-top: 15px;
+}
